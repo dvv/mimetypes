@@ -1,0 +1,11 @@
+{application, mimetypes, [
+	{description, "Guess mime type given file name or extension"},
+	{vsn, "1"},
+	{modules, []},
+	{registered, []},
+	{applications, [
+		kernel,
+		stdlib
+	]},
+	{env, []}
+]}.

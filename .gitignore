@@ -1,0 +1,11 @@
+ebin
+rel
+deps
+.eunit
+.ct
+.project_plt
+log
+logs
+test/*.beam
+erl_crash.dump
+*.swp
